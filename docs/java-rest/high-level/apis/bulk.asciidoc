@@ -1,5 +1,5 @@
 [[java-rest-high-document-bulk]]
-=== Bulk API
+=== Bulk API (what is f**k)
 
 NOTE: The Java High Level REST Client provides the <<java-rest-high-document-bulk-processor>> to assist with bulk requests
 
